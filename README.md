@@ -1,0 +1,1 @@
+# On-opening-table-dropbox-verification-is-not-showing-the-full-denomination-on-total-amount.
